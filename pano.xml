@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node10" appversion="6.1.14" apprev="18105">
+  <panorama hideabout="1" id="node15">
+    <input overlap="1" height="2607" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2607" levelingpitch="0" levelingroll="0">
+      <level height="2607" preload="0" width="2607" predecode="0"/>
+      <level height="1303" preload="0" width="1303" predecode="0"/>
+      <level height="651" preload="0" width="651" predecode="0"/>
+      <level height="325" preload="1" width="325" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="" datetime="" info="" tags="360" nodeid="node15" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-358.28" id="Point01" description="Шкаф электропитания. Используется для установки электрического оборудования.&#xa;&lt;a&#xa;href=http://ms-service.com/MS6003&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="" tilt="0.06" url="" skinid="info" target=""/>
+      <hotspot pan="-229" id="Point02" description="АВР предназначен для автоматического ввода резервных источников питания." title="АВР" tilt="-3.18" url="" skinid="info" target=""/>
+      <hotspot pan="-288.17" id="Point03" description="Поддерживает оптимальные климатические условия для работы оператора и оборудования внутри блок-бокса. " title="Кондиционер" tilt="41.94" url="" skinid="info" target=""/>
+      <hotspot pan="-90.99" id="Point04" description="" title="переход к точке 5" tilt="-4.32" url="{node6}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-355.64" id="Point05" description="Открыть" title="" tilt="-16.86" url="{node18}" skinid="hotspot_open" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input overlap="1" height="2607" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2607" levelingpitch="0" levelingroll="0">
+      <level height="2607" preload="0" width="2607" predecode="0"/>
+      <level height="1303" preload="0" width="1303" predecode="0"/>
+      <level height="651" preload="0" width="651" predecode="0"/>
+      <level height="325" preload="1" width="325" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="" datetime="" info="" tags="360" nodeid="node18" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-358.86" id="Point01" description="Закрыть" title="" tilt="-0.08" url="{node15}" skinid="hotspot_closed" target=""/>
+      <hotspot pan="-91.47" id="Point02" description="" title="переход к точке 5" tilt="-7.22" url="{node6}" skinid="hotspot_1" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input overlap="1" height="2607" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2607" levelingpitch="0" levelingroll="0">
+      <level height="2607" preload="0" width="2607" predecode="0"/>
+      <level height="1303" preload="0" width="1303" predecode="0"/>
+      <level height="651" preload="0" width="651" predecode="0"/>
+      <level height="325" preload="1" width="325" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="56.5339" fovmode="0">
+      <start pan="59.7067" fov="60" tilt="-6.13579" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="20" tilt="-90"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="70" tilt="90" fovstereographic="70"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="56.5339" customnodeid="" title="переход к точке 5" datetime="" info="" tags="360" nodeid="node6" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-314.46" id="Point04" description="Взрывозащищенный шкаф серии MS6000 собственного производства. Представляет собой герметичный шкаф под продувкой,  оборудованный специальными элементами, для обеспечения взрывозащиты типа &quot;EXP&quot;&#xa;&lt;a&#xa;href=&quot;http://ms-service.com/MS6003&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Шкаф MS6003" tilt="16.05" url="http://ms-service.com/MS6003" skinid="info" target="_blank"/>
+      <hotspot pan="-235.8" id="Point06" description="Взрывозащищенный шкаф серии MS6000 собственного производства. Представляет собой герметичный шкаф под продувкой,  оборудованный специальными элементами, для обеспечения взрывозащиты типа &quot;EXP&quot;.&#xa;&lt;a&#xa;href=http://ms-service.com/MS6003&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Шкаф MS6003" tilt="7.79" url="" skinid="info" target=""/>
+      <hotspot pan="-246.73" id="Point08" description="Блок контроля продувки предназначен для контроля  избыточного давления, обеспечивает поддержание условия для взрывозащиты вида &quot;EXP&quot;." title="Блок продувки" tilt="9.83" url="" skinid="info" target=""/>
+      <hotspot pan="-275.24" id="Point09" description="Взрывозащищенный монитор, предназначен для отображения информации  АРМ." title="Монитор" tilt="9.76" url="" skinid="info" target=""/>
+      <hotspot pan="-220.17" id="Point10" description="Извещатель пожарный дымовой, взрывозащищенный, предназначен для обнаружения возгораний." title="Датчики дыма" tilt="42.48" url="" skinid="info" target=""/>
+      <hotspot pan="-114.58" id="Point03" description="" title="переход к точке 1" tilt="-19.88" url="{node10}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-308.89" id="Point11" description="Открыть" title="переход к точке 9" tilt="-1.76" url="{node12}" skinid="hotspot_open" target=""/>
+      <hotspot pan="-279.89" id="Point12" description="" title="Мнемосхема" tilt="1.82" url="images/Мнемосхема.jpeg" skinid="ht_image" target=""/>
+      <hotspot pan="-213.19" id="Point01" description="" title="" tilt="-6.81" url="{node15}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-21.31" id="Point02" description="" title="" tilt="-2.73" url="{node16}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-274.6" id="Point05" description="" title="Главный экран" tilt="1.77" url="images/Главный экран.jpeg" skinid="ht_image" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input overlap="1" height="5439" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="5439" levelingpitch="0" levelingroll="0">
+      <level height="5439" preload="0" width="5439" predecode="0"/>
+      <level height="2719" preload="0" width="2719" predecode="0"/>
+      <level height="1359" preload="0" width="1359" predecode="0"/>
+      <level height="679" preload="0" width="679" predecode="0"/>
+      <level height="339" preload="1" width="339" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fov="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="" datetime="" info="" tags="360" nodeid="node16" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-273.07" id="Point02" description="" title="переход к точке 5" tilt="-3.85" url="{node6}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-22.55" id="Point01" description="Открыть" title="" tilt="5.19" url="{node17}" skinid="hotspot_open" target=""/>
+      <hotspot pan="-0.48" id="Point04" description="Панель переключения ПГС. Позволяет оператору в ручном или автомататическом режиме полностью управлять процессом калибровки анализатора." title="Панель переключения ПГС" tilt="-30.05" url="" skinid="info" target=""/>
+      <hotspot pan="-42.44" id="Point02" description="Стационарные датчики газа предназначенные для непрерывного измерения концентрации газов &lt;a&#xa;href=&quot;https://cronusserv.ru/&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Газосианализатор" tilt="18.25" url="" skinid="info" target=""/>
+      <hotspot pan="-105.94" id="Point05" description="Взрывозащищенный пост управления, индикации позволяет в ручном режиме управлять и контролировать элементы системы." title="Пост1" tilt="-25.91" url="" skinid="info" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input overlap="1" height="5439" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="5439" levelingpitch="0" levelingroll="0">
+      <level height="5439" preload="0" width="5439" predecode="0"/>
+      <level height="2719" preload="0" width="2719" predecode="0"/>
+      <level height="1359" preload="0" width="1359" predecode="0"/>
+      <level height="679" preload="0" width="679" predecode="0"/>
+      <level height="339" preload="1" width="339" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="" datetime="" info="" tags="360" nodeid="node17" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-42.87" id="Point02" description="Стационарные датчики газа предназначенные для непрерывного измерения концентрации газов &lt;a&#xa;href=&quot;https://cronusserv.ru/&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Газосианализатор" tilt="18.36" url="" skinid="info" target=""/>
+      <hotspot pan="-360.38" id="Point04" description="Панель переключения ПГС. Позволяет оператору в ручном или автомататическом режиме полностью управлять процессом калибровки анализатора." title="Панель переключения ПГС" tilt="-29.55" url="" skinid="info" target=""/>
+      <hotspot pan="-105.54" id="Point05" description="Взрывозащищенный пост управления, индикации позволяет в ручном режиме управлять и контролировать элементы системы." title="Пост1" tilt="-25.99" url="" skinid="info" target=""/>
+      <hotspot pan="-292.37" id="Point01" description="Закрыть" title="" tilt="4.8" url="{node16}" skinid="hotspot_closed" target=""/>
+      <hotspot pan="-272.71" id="Point06" description="" title="переход к точке 5" tilt="-3.01" url="{node6}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-2.4" id="Point03" description="Обогреватель позволяет поддерживать температуру в шкафу, выше температуры конденсации пробы." title="Обогреватель зонда" tilt="-5.93" url="" skinid="info" target=""/>
+      <hotspot pan="-355.66" id="Point07" description="Фильтр &lt;a&#xa;href=&quot;http://ms-service.com/resheniya/filtration&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Фильтр" tilt="11.01" url="" skinid="info" target="_blank"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input overlap="1" height="2607" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2607" levelingpitch="0" levelingroll="0">
+      <level height="2607" preload="0" width="2607" predecode="0"/>
+      <level height="1303" preload="0" width="1303" predecode="0"/>
+      <level height="651" preload="0" width="651" predecode="0"/>
+      <level height="325" preload="1" width="325" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="87.6459" fovmode="0">
+      <start pan="0.266252" fov="60" tilt="0.0174622" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="-66.46" fov="20" tilt="-51.19"/>
+      <max pan="54.55" fovfisheye="360" scaletofit="1" fov="70" tilt="43.45" fovstereographic="70"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="87.6459" customnodeid="" title="переход к точке 4" datetime="" info="" tags="360" nodeid="node9" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-56.46" id="Point01" description="переход к точке 1" title="переход к точке 1" tilt="-0.66" url="{node10}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-343.54" id="Point02" description="Наружный блок кондиционера." title="Кондиционер" tilt="17.45" url="" skinid="info" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input overlap="1" height="2607" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2607" levelingpitch="-0.292603" levelingroll="0.280499">
+      <level height="2607" preload="0" width="2607" predecode="0"/>
+      <level height="1303" preload="0" width="1303" predecode="0"/>
+      <level height="651" preload="0" width="651" predecode="0"/>
+      <level height="325" preload="1" width="325" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="4.32" fov="60" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="-58.4" fov="20" tilt="-55.51"/>
+      <max pan="67.51" fovfisheye="360" scaletofit="1" fov="70" tilt="30.97" fovstereographic="70"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="переход к точке 1" datetime="" info="" tags="360" nodeid="node10" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-298.11" id="Point01" description="" title="переход к точке 4" tilt="-0.32" url="{node9}" skinid="hotspot_1" target=""/>
+      <hotspot pan="358.01" id="Point03" description="" title="переход к точке 5" tilt="-5.1" url="{node6}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-37.87" id="Point05" description="Пробоотборный зонд - обеспечивает выполнение следующих функций:&#xa;- отбор пробы;&#xa;- первичная фильтрация пробы;&#xa;- поддержание температуры отбираемой пробы выше температуры конденсации;&#xa;- обратная продувка азотом, воздухом или паром для очистки фильтра; &#xa;- подача в зонд калибровочного газа для проверки функционирования и калибровки системы, для проведения метрологической поверки. &#xa;Собственная разработка компании. " title="Зонд с гретой линией" tilt="5.95" url="" skinid="info" target=""/>
+      <hotspot pan="-48" id="Point06" description="Распределительный шкаф-взрывозащищённая оболочка для размещения элементов управления и преобразования сигналов узлов удаленных от Блок-бокса с основным оборудованием." title="Распредшкаф" tilt="-0.21" url="" skinid="info" target=""/>
+      <hotspot pan="-23.56" id="Point07" description="Блок-бокс собственного производства, предназначен для размещения аналитического и автоматизированного оборудования. Оснащается системами жизнеобеспечения, пожарной сигнализацией, датчиками загазованности." title="Блок-бокс" tilt="14.1" url="" skinid="info" target=""/>
+      <hotspot pan="-341.87" id="Point08" description="Пост пожарной свето-звуковой сигнализации." title="" tilt="16.25" url="" skinid="info" target=""/>
+      <hotspot pan="-329.26" id="Point09" description="Пост сигнализации загазованности." title="Экран.Г" tilt="18.29" url="" skinid="info" target=""/>
+      <hotspot pan="-41.37" id="Point02" description="" title="переход к точке 3" tilt="10.08" url="{node3}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-311.88" id="Point11" description="" title="Шкаф сервера" tilt="0.97" url="images/серверный шкаф.jpg" skinid="ht_image_txt" target=""/>
+      <hotspot pan="-32.49" id="Point04" description="Открыть" title="" tilt="-6.4" url="{node14}" skinid="hotspot_open" target=""/>
+      <hotspot pan="-345.68" id="Point12" description="Ручной пожарный извещатель." title="" tilt="7.14" url="" skinid="info" target=""/>
+      <polyhotspot id="Poly01" description="" title="" url="http://ms-service.com/" target="_blank">
+        <polystring>-346.51/26.64|-346.46/22.93|-15.1/21.95|-15.24/25.41</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input overlap="1" height="4463" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="4463" levelingpitch="0" levelingroll="0">
+      <level height="4463" preload="0" width="4463" predecode="0"/>
+      <level height="2231" preload="0" width="2231" predecode="0"/>
+      <level height="1115" preload="0" width="1115" predecode="0"/>
+      <level height="557" preload="0" width="557" predecode="0"/>
+      <level height="278" preload="1" width="278" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="34.7143" fovmode="0">
+      <start pan="18.67" fov="50" tilt="-1.71" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="-26.5" fov="20" tilt="-51.06"/>
+      <max pan="94.66" fovfisheye="360" scaletofit="1" fov="70" tilt="30.39" fovstereographic="70"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="34.7143" customnodeid="" title="" datetime="" info="" tags="360" nodeid="node14" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-12.43" id="Point01" description="Закрыть" title="переход к точке 1" tilt="-3.51" url="{node10}" skinid="hotspot_closed" target=""/>
+      <hotspot pan="-354.47" id="Point02" description="Пробоотборная предизолированная линия - предназначена для транспортировки пробы с поддержанием температуры пробы выше температуры конденсации и обеспечивает функции обратной продувки и подачи калибровочного газа." title="Гретая линия" tilt="-17.26" url="" skinid="info" target=""/>
+      <hotspot pan="-356.25" id="Point03" description="Обогреватель позволяет поддерживать температуру в зонде, выше температуры конденсации пробы." title="Обогреватель зонда" tilt="-8.59" url="" skinid="info" target=""/>
+      <hotspot pan="-355.99" id="Point04" description="Обогреваемый фильтр, с функцией быстрой замены фильтрующего элемента.&#xa;&lt;a&#xa;href=&quot;http://ms-service.com/resheniya/filtration&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Фильтр пробы" tilt="-6.15" url="" skinid="info" target=""/>
+      <hotspot pan="-296.76" id="Point09" description="Пост сигнализации загазованности." title="Экран.Г" tilt="16.58" url="" skinid="info" target=""/>
+      <hotspot pan="-305.56" id="Point08" description="Пост пожарной свето-звуковой сигнализации." title="" tilt="15.54" url="" skinid="info" target=""/>
+      <hotspot pan="-309.47" id="Point12" description="Ручной пожарный извещатель." title="" tilt="6.59" url="" skinid="info" target=""/>
+      <hotspot pan="-324.05" id="Point03" description="" title="переход к точке 5" tilt="-3.41" url="{node6}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-348.8" id="Point07" description="Блок-бокс собственного производства, предназначен для размещения аналитического и автоматизированного оборудования. Оснащается системами жизнеобеспечения, пожарной сигнализацией, датчиками загазованности." title="Блок-бокс" tilt="14.24" url="" skinid="info" target=""/>
+      <hotspot pan="-5.5" id="Point02" description="" title="переход к точке 3" tilt="11.66" url="{node3}" skinid="hotspot_1" target=""/>
+      <hotspot pan="-279.21" id="Point11" description="" title="Шкаф сервера" tilt="0.66" url="images/серверный шкаф.jpg" skinid="ht_image_txt" target=""/>
+      <hotspot pan="-267.42" id="Point01" description="" title="переход к точке 4" tilt="0.36" url="{node9}" skinid="hotspot_1" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input overlap="1" height="2607" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2607" levelingpitch="0" levelingroll="0">
+      <level height="2607" preload="0" width="2607" predecode="0"/>
+      <level height="1303" preload="0" width="1303" predecode="0"/>
+      <level height="651" preload="0" width="651" predecode="0"/>
+      <level height="325" preload="1" width="325" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-52.3799" fovmode="0">
+      <start pan="-1.8" fov="60" tilt="-7.01" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="-87.74" fov="5" tilt="-68.33"/>
+      <max pan="57.29" fovfisheye="360" scaletofit="1" fov="120" tilt="46.2" fovstereographic="270"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="-52.3799" customnodeid="" title="переход к точке 3" datetime="" info="" tags="360" nodeid="node3" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-356.07" id="Point01" description="Шкаф с ПГС. Служит для установки и хранения баллонов с поверочными газовыми смесями, оснащается редукторами для снижения давления до безопасных значений." title="Шкаф с ПГС" tilt="-18.25" url="" skinid="info" target=""/>
+      <hotspot pan="-11.03" id="Point03" description="Внешний выключатель предназначен для  оперативных переключений  и ввода электропитания на систему." title="Внешний выключатель" tilt="20.39" url="" skinid="info" target=""/>
+      <hotspot pan="-309.71" id="Point04" description="" title="переход к точке 1" tilt="-10.53" url="{node10}" skinid="hotspot_1" target=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input overlap="1" height="5993" levelbiashidpi="1.000" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" flat="1" levelbias="0.400" width="4001" cylinder="1" levelingpitch="0" levelingroll="0">
+      <level height="5993" preload="0" width="4001" predecode="0"/>
+      <level height="2996" preload="0" width="2000" predecode="0"/>
+      <level height="1498" preload="0" width="1000" predecode="0"/>
+      <level height="749" preload="1" width="500" predecode="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="90" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="0" fov="120" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="переход к точке 9" datetime="2021:12:23 11:21:53" info="" tags="LR" nodeid="node12" longitude="" author="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
+      <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot pan="-4.43" id="Point01" description="Закрыть" title="переход к точке 5" tilt="4.16" url="{node6}" skinid="hotspot_closed" target=""/>
+      <hotspot pan="-11.88" id="Point02" description="Персональный компьютер, предназначен для управления автоматической системой  измерения, на его основе создано рабочее место оператора." title="ПК" tilt="4.09" url="" skinid="info" target=""/>
+      <hotspot pan="-11.19" id="Point03" description="Источник бесперебойного питания, обеспечивающий непрерывную работу основных электропотребителей, в случае прекращения подачи основного электропитания." title="ИБП" tilt="-23.64" url="" skinid="info" target=""/>
+      <hotspot pan="-0.31" id="Point04" description="Компрессор, обеспечивает расход измеряемого газа и калибровочных смесей через анализатор.&#xa;&lt;a&#xa;href=&quot;http://ms-service.com/compressors&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Компрессор" tilt="25.84" url="" skinid="info" target=""/>
+      <hotspot pan="-11.61" id="Point06" description="Газоанализатор MC 3  производит непрерывное измерение содержания компонентов в пробе, может измерять до 9 компонентов одновременно.&#xa;&lt;a&#xa;href=&quot;http://ms-service.com/analizatoryi/gazov/fotometricheskie-mnogokomponentnyie/mnogokomponentnyiy-infrakrasnyiy-fotometricheskiy-analizator-mc3-120&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Анализатор" tilt="18.69" url="" skinid="info" target=""/>
+      <polyhotspot id="Poly01" description="" title="" url="http://ms-service.com/compressors" target="_blank">
+        <polystring>-5.65/27.23|-5.74/24.07|-0.87/24.09|-0.81/27.29</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" hideabout="1" simulatemass="1" speedwheel="2" invertcontrol="1" sensitivity="8" dblclickfullscreen="1" contextfullscreen="1" lockedkeyboard="0" contextvr="1" lockedkeyboardzoom="0" contextprojections="0" invertwheel="1" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" copyright="" latitude="" description="" heading="0" customnodeid="" title="" datetime="" info="" tags="" nodeid="master" longitude="" author="" source=""/>
+  </masternode>
+</tour>
