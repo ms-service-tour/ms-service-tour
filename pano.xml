@@ -18,7 +18,7 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot pan="-358.28" id="Point01" description="Шкаф электропитания. Используется для установки электрического оборудования.&#xa;&lt;a&#xa;href=http://ms-service.com/MS6003&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="" tilt="0.06" url="" skinid="info" target=""/>
+      <hotspot pan="-358.28" id="Point01" description="Шкаф электропитания. Используется для установки электрического оборудования." title="" tilt="0.06" url="" skinid="info" target=""/>
       <hotspot pan="-229" id="Point02" description="АВР предназначен для автоматического ввода резервных источников питания." title="АВР" tilt="-3.18" url="" skinid="info" target=""/>
       <hotspot pan="-288.17" id="Point03" description="Поддерживает оптимальные климатические условия для работы оператора и оборудования внутри блок-бокса. " title="Кондиционер" tilt="41.94" url="" skinid="info" target=""/>
       <hotspot pan="-90.99" id="Point04" description="" title="переход к точке 5" tilt="-4.32" url="{node6}" skinid="hotspot_1" target=""/>
@@ -73,8 +73,8 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label background="1" border="1" height="20" textalpha="1" wordwrap="1" enabled="1" textcolor="0x000000" bordercolor="0x000000" width="180" borderradius="1" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" mode="0" backgroundcolor="0x0000ff" handcursor="1" backgroundalpha="0.25098" borderalpha="1"/>
-      <hotspot pan="-314.46" id="Point04" description="Взрывозащищенный шкаф серии MS6000 собственного производства. Представляет собой герметичный шкаф под продувкой,  оборудованный специальными элементами, для обеспечения взрывозащиты типа &quot;EXP&quot;&#xa;&lt;a&#xa;href=&quot;http://ms-service.com/MS6003&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Шкаф MS6003" tilt="16.05" url="http://ms-service.com/MS6003" skinid="info" target="_blank"/>
-      <hotspot pan="-235.8" id="Point06" description="Взрывозащищенный шкаф серии MS6000 собственного производства. Представляет собой герметичный шкаф под продувкой,  оборудованный специальными элементами, для обеспечения взрывозащиты типа &quot;EXP&quot;.&#xa;&lt;a&#xa;href=http://ms-service.com/MS6003&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Шкаф MS6003" tilt="7.79" url="" skinid="info" target=""/>
+      <hotspot pan="-314.46" id="Point04" description="Взрывозащищенный шкаф серии MS6000 собственного производства. Представляет собой герметичный шкаф под продувкой,  оборудованный специальными элементами, для обеспечения взрывозащиты типа &quot;EXP&quot;." title="Шкаф MS6003" tilt="16.05" url="" skinid="info" target="_blank"/>
+      <hotspot pan="-235.8" id="Point06" description="Взрывозащищенный шкаф серии MS6000 собственного производства. Представляет собой герметичный шкаф под продувкой,  оборудованный специальными элементами, для обеспечения взрывозащиты типа &quot;EXP&quot;." title="Шкаф MS6003" tilt="7.79" url="" skinid="info" target=""/>
       <hotspot pan="-246.73" id="Point08" description="Блок контроля продувки предназначен для контроля  избыточного давления, обеспечивает поддержание условия для взрывозащиты вида &quot;EXP&quot;." title="Блок продувки" tilt="9.83" url="" skinid="info" target=""/>
       <hotspot pan="-275.24" id="Point09" description="Взрывозащищенный монитор, предназначен для отображения информации  АРМ." title="Монитор" tilt="9.76" url="" skinid="info" target=""/>
       <hotspot pan="-220.17" id="Point10" description="Извещатель пожарный дымовой, взрывозащищенный, предназначен для обнаружения возгораний." title="Датчики дыма" tilt="42.48" url="" skinid="info" target=""/>
@@ -145,7 +145,7 @@
       <hotspot pan="-292.37" id="Point01" description="Закрыть" title="" tilt="4.8" url="{node16}" skinid="hotspot_closed" target=""/>
       <hotspot pan="-272.71" id="Point06" description="" title="переход к точке 5" tilt="-3.01" url="{node6}" skinid="hotspot_1" target=""/>
       <hotspot pan="-2.4" id="Point03" description="Обогреватель позволяет поддерживать температуру в шкафу, выше температуры конденсации пробы." title="Обогреватель зонда" tilt="-5.93" url="" skinid="info" target=""/>
-      <hotspot pan="-355.66" id="Point07" description="Фильтр &lt;a&#xa;href=&quot;http://ms-service.com/resheniya/filtration&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Фильтр" tilt="11.01" url="" skinid="info" target="_blank"/>
+      <hotspot pan="-355.66" id="Point07" description="Фильтр." title="Фильтр" tilt="11.01" url="" skinid="info" target="_blank"/>
     </hotspots>
     <media/>
     <transition blendtime="1" zoomafteroutfov="20" enabled="1" zoomoutpause="1" type="crossdissolve" zoomafterinfov="90" zoomfov="20" zoomout="0" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomin="0"/>
@@ -301,9 +301,9 @@
       <hotspot pan="-4.43" id="Point01" description="Закрыть" title="переход к точке 5" tilt="4.16" url="{node6}" skinid="hotspot_closed" target=""/>
       <hotspot pan="-11.88" id="Point02" description="Персональный компьютер, предназначен для управления автоматической системой  измерения, на его основе создано рабочее место оператора." title="ПК" tilt="4.09" url="" skinid="info" target=""/>
       <hotspot pan="-11.19" id="Point03" description="Источник бесперебойного питания, обеспечивающий непрерывную работу основных электропотребителей, в случае прекращения подачи основного электропитания." title="ИБП" tilt="-23.64" url="" skinid="info" target=""/>
-      <hotspot pan="-0.31" id="Point04" description="Компрессор, обеспечивает расход измеряемого газа и калибровочных смесей через анализатор.&#xa;&lt;a&#xa;href=&quot;http://ms-service.com/compressors&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Компрессор" tilt="25.84" url="" skinid="info" target=""/>
+      <hotspot pan="-0.31" id="Point04" description="Компрессор, обеспечивает расход измеряемого газа и калибровочных смесей через анализатор." title="Компрессор" tilt="25.84" url="" skinid="info" target=""/>
       <hotspot pan="-11.61" id="Point06" description="Газоанализатор MC 3  производит непрерывное измерение содержания компонентов в пробе, может измерять до 9 компонентов одновременно.&#xa;&lt;a&#xa;href=&quot;http://www.ms-service.com/production/gas-analyzers/mnogokomponentnyy-gazoanalizator-mc3&quot;&#xa;target=&quot;_blank&quot;>Перейти на сайт&lt;/a>" title="Анализатор" tilt="18.69" url="" skinid="info" target=""/>
-      <polyhotspot id="Poly01" description="" title="" url="http://ms-service.com/compressors" target="_blank">
+      <polyhotspot id="Poly01" description="" title="" url="" target="_blank">
         <polystring>-5.65/27.23|-5.74/24.07|-0.87/24.09|-0.81/27.29</polystring>
       </polyhotspot>
     </hotspots>
